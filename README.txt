@@ -1,3 +1,6 @@
+WARNING, THIS IS DISCONTINUED, USE AT YOUR OWN RISK
+
+
 Author:  Luca Bruzzone http://www.unsigned.it
 Licence: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
